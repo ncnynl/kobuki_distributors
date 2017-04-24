@@ -257,6 +257,22 @@
           22.288103695402054
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Foshan AiZheTeng Information Technology Co.,Ltd.",
+        "Role": "Distributor",
+        "Website": "http://www.ncnynl.com",
+        "Product": "Kobuki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0607154,
+          113.0440671
+        ]
+      }
     }
   ]
 }
